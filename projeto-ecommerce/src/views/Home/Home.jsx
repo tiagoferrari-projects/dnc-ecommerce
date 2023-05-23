@@ -1,6 +1,5 @@
 import React from "react";
 import "./index.scss";
-import { Link } from "react-router-dom";
 import HeaderMenu from "../../components/HeaderMenu/HeaderMenu";
 import Search from "../../components/Search/Search";
 import ProductsCard from "../../components/ProductsCard/ProductsCard";
